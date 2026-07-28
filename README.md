@@ -110,11 +110,6 @@ Ticket office dashboard where every event is registered on-chain and every ticke
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonathanisbavk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanisbavk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Jonathanisbavk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
