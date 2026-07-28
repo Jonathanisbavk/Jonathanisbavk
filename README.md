@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jonathan 👋</h1>
 
-<h3 align="center">Full Stack Developer · Building AI-powered web apps 🚀</h3>
+<h3 align="center">Full Stack Developer · Web, mobile & AI-powered products 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/Jonathanisbavk">
@@ -12,10 +12,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I build modern, AI-powered **web & mobile** applications end to end — from database schema to polished UI.
-- 🤖 I love integrating **generative AI** into real products: LLM pipelines, vector embeddings & semantic search.
+- 🔭 I build modern **web & mobile** applications end to end — from database schema to polished UI.
+- 🏗️ I care about **architecture**: layered design, strict typing and decisions I can justify.
+- 🤖 I integrate **generative AI** into real products: LLM pipelines, vector embeddings & semantic search.
+- ⛓️ I also work with **Web3**: smart contract integration, ERC-721 and on-chain verification.
 - 🌱 Currently leveling up on **RAG, AI agents and scalable backends**.
-- ⚡ Philosophy: *if it can be inferred, automate it.*
 - 📫 Reach me: **jonathan9579285@gmail.com**
 
 ---
@@ -35,9 +36,12 @@
 
 **Frontend**
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Mobile**
 
@@ -46,11 +50,18 @@
 
 **Backend & Database**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
 **AI / ML**
 
@@ -60,15 +71,16 @@
 
 **Tools & Deploy**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### 🎯 [CONECTA UNSA — Intelligent Job Platform](https://hackathon-unsa-desafio1.vercel.app)
 
@@ -81,6 +93,18 @@ An AI-driven employment platform that connects university graduates with relevan
 
 `Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS` · `Supabase` · `pgvector` · `Gemini` · `Groq` · `Vercel`
 
+#### 🎫 [TicketChain — Blockchain Ticketing Dashboard](https://github.com/Jonathanisbavk/frontend_productos_angular)
+
+Ticket office dashboard where every event is registered on-chain and every ticket is an ERC-721 NFT, with a PDF receipt published to IPFS.
+
+- ⛓️ **On-chain registration & validation**: transactions signed in the browser with MetaMask, then read back from the contract to prove the stored data was not tampered with.
+- 🎟️ **Full NFT lifecycle**: mint, ownership verification and `safeTransferFrom` between wallets.
+- ⚡ **Zoneless Angular 21**: no `zone.js`, signals as the single source of state, `OnPush` everywhere — 79 kB initial bundle.
+- 🏛️ **Layered architecture** (`core` / `shared` / `features`) with one-way dependencies and a strictly typed API contract.
+- 🔁 Built twice on purpose: the **same product also exists in Next.js**, against the same Express backend, to contrast both ecosystems.
+
+`Angular 21` · `TypeScript` · `Angular Material 3` · `ethers v6` · `Solidity` · `IPFS` · `Express` · `MariaDB`
+
 ---
 
 ### 📊 GitHub Stats
@@ -91,7 +115,7 @@ An AI-driven employment platform that connects university graduates with relevan
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathanisbavk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Jonathanisbavk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
