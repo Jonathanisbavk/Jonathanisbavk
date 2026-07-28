@@ -80,6 +80,13 @@
 
 ---
 
+### 📁 Full Portfolio
+
+**[Read the full technical portfolio →](PORTFOLIO.md)** — every public project, grouped by
+domain, with the stack and the engineering decision behind each one.
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🎯 [CONECTA UNSA — Intelligent Job Platform](https://hackathon-unsa-desafio1.vercel.app)
@@ -104,6 +111,17 @@ Ticket office dashboard where every event is registered on-chain and every ticke
 - 🔁 Built twice on purpose: the **same product also exists in Next.js**, against the same Express backend, to contrast both ecosystems.
 
 `Angular 21` · `TypeScript` · `Angular Material 3` · `ethers v6` · `Solidity` · `IPFS` · `Express` · `MariaDB`
+
+#### 💈 [Barber Suite — Spring Cloud Microservices](https://github.com/Jonathanisbavk/barber-frontend-angular)
+
+Barbershop management platform split into independent services with centralized discovery.
+
+- 🧩 **Service-oriented**: a domain REST API ([barber-service](https://github.com/Jonathanisbavk/barber-service)), a separate reporting service ([barber-dashboard-service](https://github.com/Jonathanisbavk/barber-dashboard-service)) and a **Netflix Eureka** discovery server ([eureka.server](https://github.com/Jonathanisbavk/eureka.server)).
+- 🗄️ **Spring Data JPA over MariaDB**, so analytical queries don't compete with transactional load.
+- 🔄 **Frontend migrated** from vanilla HTML/CSS/JS to an Angular SPA with feature-based architecture and signals, keeping exact functional and visual parity — the original is still public for comparison.
+- 🧾 Appointment scheduling and POS with tax-compliant invoicing.
+
+`Java 21` · `Spring Boot` · `Spring Cloud` · `Spring Data JPA` · `MariaDB` · `Angular 21` · `RxJS`
 
 ---
 
