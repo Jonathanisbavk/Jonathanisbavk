@@ -1,4 +1,4 @@
-# Portafolio técnico — Jonathan Gutiérrez Quispe
+# Portafolio técnico — Jonathan Gutierrez Quispe
 
 Catálogo de mis proyectos públicos, ordenado por relevancia técnica y no por fecha.
 Cada ficha indica qué resuelve, con qué está construido y qué decisión de ingeniería
